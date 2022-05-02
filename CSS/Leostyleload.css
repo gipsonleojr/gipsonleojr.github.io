@@ -1,0 +1,22 @@
+
+.button {
+    background-color: white;
+    border-color: rgb(230, 195, 173);
+    border-radius: 12px;
+    width: 100px;
+    height: 30px;
+}
+
+.table3 {
+    background-image: linear-gradient(white, rgb(230, 207, 173));
+    width: 70%;
+    font-family: 'Comic Sans MS', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+  background-color: #f5f5f5;
+  background-image: linear-gradient(90deg, #f5f5f5 0%, #d4602e 100%);
+
+}
+h1   {
+  font-family: 'Comic Sans MS';
+}
